@@ -4,6 +4,5 @@
 
 Это скилл растет
 
-![hippo](https://media.giphy.com/media/Opgs8NUosTAnRSFYzc/giphy.gif)
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
