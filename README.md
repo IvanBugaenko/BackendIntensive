@@ -2,7 +2,7 @@
 # Омский государственный технический университет, ФИТиКС, каф. ПМиФИ.
 
 
-Это я бегу делать лабы
+Это я после пар
 
 
-![cat](https://media.tenor.com/ZxO72WTtSqIAAAAd/applecat.gif)
+![cat](https://64.media.tumblr.com/844938edba646e487dbe50a2835b0ed1/tumblr_msml75gFSk1qm62s4o1_400.gifv)
