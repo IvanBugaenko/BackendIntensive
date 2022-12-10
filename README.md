@@ -2,7 +2,7 @@
 # Омский государственный технический университет, ФИТиКС, каф. ПМиФИ.
 
 
-Это скилл растет
+Это я бегу делать лабы
 
 
-![hippo](https://media4.giphy.com/media/jpbnoe3UIa8TU8LM13/200w_s.gif)
+![cat](https://media.tenor.com/ZxO72WTtSqIAAAAd/applecat.gif)
