@@ -4,4 +4,4 @@
 
 Это скилл растет 👻
 
-[![N|logo](https://media.giphy.com/media/Opgs8NUosTAnRSFYzc/giphy-downsized-large.gif)]()
+![hippo](https://media.giphy.com/media/Opgs8NUosTAnRSFYzc/giphy-downsized-large.gif)
