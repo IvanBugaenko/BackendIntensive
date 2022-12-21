@@ -5,13 +5,11 @@ def largest_number(l: list) -> str:
 
 
     def my_sort(num1: str, num2: str) -> int:
-        a = num1 + num1[-1] * (4 - len(num1))
-        b = num2 + num2[-1] * (4 - len(num2))
-        return 0 if a == b else 1 if a > b else -1
+        return 1 if num1 + num2 > num2 + num1 else 0 if num1 + num2 == num2 + num1 else -1
 
 
     l.sort(key=functools.cmp_to_key(my_sort), reverse=True)
-    return "".join(l)
+    return " ".join(l)
 
 if __name__ == "__main__":
     n = int(input())
